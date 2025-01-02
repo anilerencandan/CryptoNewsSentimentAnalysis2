@@ -88,4 +88,4 @@ This project highlights the power of transformer models in understanding cryptoc
 
 1. **Clone the Repository**:
    ```bash
-   git clone [<repository_url>](https://github.com/anilerencandan/CryptoNewsSentimentAnalysis2.git)
+   git clone https://github.com/anilerencandan/CryptoNewsSentimentAnalysis2.git
